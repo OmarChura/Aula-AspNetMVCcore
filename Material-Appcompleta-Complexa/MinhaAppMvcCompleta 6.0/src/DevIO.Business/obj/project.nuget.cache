@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4rBGrkkvknv6S8hUNrA2Rwn9wJXJ2eXdDoy57NEDHrsqweCHL4HaLIjijbP2hoLgQRNbwYn0zMynaaVRllGzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henry\\Desktop\\Labs\\C# 2022\\Material-Appcompleta-Complexa\\MinhaAppMvcCompleta 6.0\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henry\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

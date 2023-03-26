@@ -1,0 +1,3 @@
+-comando para fazer deploy abrindo o console dentro da pasta do aplicatico
+
+dotnet run --project DevIO.App.csproj
